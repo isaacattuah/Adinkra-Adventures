@@ -3,6 +3,7 @@
 		#	                  WELCOME TO ADINKRA ADVENTURES				     #			     
 		######################################################################################
 
+Play Here: https://isaacattuah.github.io/Adinkra-Adventures/
 
  Adinkra are symbols from Ghana that represent concepts or aphorisms. They have a decorative function but also represent objects that encapsulate evocative messages conveying traditional wisdom, aspects of life, or the environment - Wikipedia
  										
@@ -101,7 +102,7 @@ Level 4: https://www.youtube.com/watch?v=VBdb0YrnJrY
 Level 3: https://www.youtube.com/watch?v=pBIoPQshOiw
 Level 2: https://www.youtube.com/watch?v=PsZe3yebOVg
 Level 1: https://www.youtube.com/watch?v=IjvoVknUxj8
-Main Menu Sound: Eric Hellams (ejh105@miami.edu) - BSc. Marine & Atmospheric Science 2024 and Frost Student at Heart
+Main Menu Sound: Eric Hellams (ejh105@miami.edu) - BSc. Marine & Atmospheric Science & Spanish 2024 and Frost Student at Heart
 
 
 Puzzle Mechanics
